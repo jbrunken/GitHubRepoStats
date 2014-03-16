@@ -1,0 +1,221 @@
+﻿
+.ghrs a span { color: #333; }
+
+.ghrs .repoLoading { text-align: center; }
+.ghrs .repoInfo {}
+.ghrs ul.repoCounts { float: right; margin: 0; }
+.ghrs ul.repoCounts li { list-style-type: none;float: left;margin: 0 5px 0 0;font-size: 11px; }
+.ghrs ul.repoCounts li:last-child { margin-right: 0px; }
+.ghrs ul.repoCounts a {
+    position: relative;
+    padding: 4px;
+    font-weight:bold; 
+    color: #333;
+    box-shadow: none;
+    text-shadow: 0 1px 0 rgba(255, 255, 255, 0.9); 
+    background-image: linear-gradient(#fcfcfc, #eee); 
+    text-shadow: 0 1px 0 rgba(255,255,255,0.9);
+    white-space: nowrap;
+    background-color: #eeeeee;
+    background-image: -moz-linear-gradient(#fcfcfc, #eee);
+    background-image: -webkit-linear-gradient(#fcfcfc, #eee);
+    background-image: linear-gradient(#fcfcfc, #eee);
+    background-repeat: repeat-x;
+    border-radius: 3px;
+    border: 1px solid #d5d5d5;
+    vertical-align: middle;
+    cursor: pointer;
+    -webkit-touch-callout: none;
+    -webkit-user-select: none; 
+}
+.ghrs ul.repoLinks { float: right; margin: 0 0 10px 10px; }
+.ghrs ul.repoLinks li { list-style-type: none; float: left ;margin: 0 5px 0 0; }
+.ghrs ul.repoLinks li:last-child { margin-right: 0px; }
+
+.ghrs .release { padding-top: 10px; }
+.ghrs .release:first-child { border-top: solid 1px #ddd; }
+.ghrs .releaseTitle { font-weight: bold; }
+
+.ghrs a.repoAsset  {
+    color: #fff;
+    background-color: #60b044;
+    background-image: -moz-linear-gradient(#8add6d, #60b044);
+    background-image: -webkit-linear-gradient(#8add6d, #60b044);
+    background-image: linear-gradient(#8add6d, #60b044);
+    background-repeat: repeat-x;
+    border-color: #5ca941;
+    border-radius: 3px;
+    border: 1px solid #d5d5d5;
+    vertical-align: middle;
+    position: relative;
+    display: inline-block;
+    padding: 7px 12px;
+    font-size: 13px;
+    font-weight: bold;
+    margin-top: 5px;
+}
+
+.ghrs a.repoAsset span { color: #fff; }
+.ghrs .assetDownloads { display: inline-block;position: relative;top: 3px; }
+
+/* shared */
+.heading-ghrs { border: solid 1px #ddd; background-color: #eee; color: #333;padding: 10px; }
+.body-ghrs { border: solid 1px #ddd;border-top: none; color: #333;padding: 10px;background-color: #fff;}
+.body-ghrs > div { margin-bottom: 10px; }
+.body-ghrs > div:last-child { margin-bottom: 0px; }
+.rounded-ghrs { -moz-border-radius: 4px; -webkit-border-radius: 40px; border-radius: 4px; }
+.rounded-top-ghrs { -moz-border-radius: 4px 4px 0px 0px; -webkit-border-radius: 4px 4px 0px 0px; border-radius: 4px 4px 0px 0px;  }
+.rounded-bottom-ghrs { -moz-border-radius: 0px 0px 4px 4px; -webkit-border-radius: 0px 0px 4px 4px; border-radius: 0px 0px 4px 4px; }
+
+/* Font: Generated via Fontello.com*/
+
+@font-face {
+  font-family: 'ghrs';
+  src: url('./font/ghrs.eot?14219507');
+  src: url('./font/ghrs.eot?14219507#iefix') format('embedded-opentype'),
+       url('./font/ghrs.woff?14219507') format('woff'),
+       url('./font/ghrs.ttf?14219507') format('truetype'),
+       url('./font/ghrs.svg?14219507#ghrs') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+/* Chrome hack: SVG is rendered more smooth in Windozze. 100% magic, uncomment if you need it. */
+/* Note, that will break hinting! In other OS-es font will be not as sharp as it could be */
+/*
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+  @font-face {
+    font-family: 'ghrs';
+    src: url('../font/ghrs.svg?14219507#ghrs') format('svg');
+  }
+}
+*/
+ 
+ [class^="icon-ghrs-"]:before, [class*=" icon-ghrs-"]:before {
+  font-family: "ghrs";
+  font-style: normal;
+  font-weight: normal;
+  speak: none;
+ 
+  display: inline-block;
+  text-decoration: inherit;
+  width: 1em;
+  margin-right: .2em;
+  text-align: center;
+  /* opacity: .8; */
+ 
+  /* For safety - reset parent styles, that can break glyph codes*/
+  font-variant: normal;
+  text-transform: none;
+     
+  /* fix buttons height, for twitter bootstrap */
+  line-height: 1em;
+ 
+  /* Animation center compensation - margins should be symmetric */
+  /* remove if not needed */
+  margin-left: .2em;
+ 
+  font-size: 120%; 
+
+}
+ 
+.icon-ghrs-star:before { content: '\e801'; } /* '' */
+.icon-ghrs-book-open:before { content: '\e800'; } /* '' */
+.icon-ghrs-eye:before { content: '\e802'; } /* '' */
+.icon-ghrs-download-cloud:before { content: '\e80a'; } /* '' */
+.icon-ghrs-arrows-cw:before { content: '\e80b'; } /* '' */
+.icon-ghrs-chart-bar:before { content: '\e80d'; } /* '' */
+.icon-ghrs-fork:before { content: '\e809'; } /* '' */
+.icon-ghrs-info-circled:before { content: '\e80c'; } /* '' */
+.icon-ghrs-facebook-squared:before { content: '\e807'; } /* '' */
+.icon-ghrs-github:before { content: '\e803'; } /* '' */
+.icon-ghrs-github-squared:before { content: '\e804'; } /* '' */
+.icon-ghrs-gplus-squared:before { content: '\e806'; } /* '' */
+.icon-ghrs-gplus:before { content: '\e805'; } /* '' */
+.icon-ghrs-facebook:before { content: '\e808'; } /* '' */
+
+
+/*
+   Animation, for spinners
+*/
+.animate-spin-ghrs {
+  -moz-animation: spin-grhs 2s infinite linear;
+  -o-animation: spin-grhs 2s infinite linear;
+  -webkit-animation: spin-grhs 2s infinite linear;
+  animation: spin-grhs 2s infinite linear;
+  display: inline-block;
+}
+@-moz-keyframes spin-grhs {
+  0% {
+    -moz-transform: rotate(0deg);
+    -o-transform: rotate(0deg);
+    -webkit-transform: rotate(0deg);
+    transform: rotate(0deg);
+  }
+
+  100% {
+    -moz-transform: rotate(359deg);
+    -o-transform: rotate(359deg);
+    -webkit-transform: rotate(359deg);
+    transform: rotate(359deg);
+  }
+}
+@-webkit-keyframes spin-grhs {
+  0% {
+    -moz-transform: rotate(0deg);
+    -o-transform: rotate(0deg);
+    -webkit-transform: rotate(0deg);
+    transform: rotate(0deg);
+  }
+
+  100% {
+    -moz-transform: rotate(359deg);
+    -o-transform: rotate(359deg);
+    -webkit-transform: rotate(359deg);
+    transform: rotate(359deg);
+  }
+}
+@-o-keyframes spin-grhs {
+  0% {
+    -moz-transform: rotate(0deg);
+    -o-transform: rotate(0deg);
+    -webkit-transform: rotate(0deg);
+    transform: rotate(0deg);
+  }
+
+  100% {
+    -moz-transform: rotate(359deg);
+    -o-transform: rotate(359deg);
+    -webkit-transform: rotate(359deg);
+    transform: rotate(359deg);
+  }
+}
+@-ms-keyframes spin-grhs {
+  0% {
+    -moz-transform: rotate(0deg);
+    -o-transform: rotate(0deg);
+    -webkit-transform: rotate(0deg);
+    transform: rotate(0deg);
+  }
+
+  100% {
+    -moz-transform: rotate(359deg);
+    -o-transform: rotate(359deg);
+    -webkit-transform: rotate(359deg);
+    transform: rotate(359deg);
+  }
+}
+@keyframes spin-grhs {
+  0% {
+    -moz-transform: rotate(0deg);
+    -o-transform: rotate(0deg);
+    -webkit-transform: rotate(0deg);
+    transform: rotate(0deg);
+  }
+
+  100% {
+    -moz-transform: rotate(359deg);
+    -o-transform: rotate(359deg);
+    -webkit-transform: rotate(359deg);
+    transform: rotate(359deg);
+  }
+}

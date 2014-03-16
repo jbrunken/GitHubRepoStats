@@ -1,0 +1,23 @@
+﻿<h3>GitHubRepoStats</h3>
+<p class="Contributor">
+	Jason Brunken <br />
+	<a href="mailto:jason@brunkens.com">jason@brunkens.com</a><br />
+	<a href="https://github.com/jbrunken/GitHubRepoStats">https://github.com/jbrunken/GitHubRepoStats</a><br />
+</p>
+<hr/>
+<div class="License">
+	<h3>About the GitHubRepoStats</h3>
+	<p class="Owner">
+		<b>Version 1.0.0</b><br /><br />
+	</p>
+	<p>Description about version.</p>
+	
+	<h4>Bug Fixes</h4>
+	<ul>
+			<li>List</li>
+			<li>of</li>
+			<li>bug</li>
+			<li>fixes</li>
+	</ul>
+	
+</div>
