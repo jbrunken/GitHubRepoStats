@@ -6,18 +6,9 @@
 </p>
 <hr/>
 <div class="License">
-	<h3>About the GitHubRepoStats</h3>
+	<h3>GitHubRepoStats</h3>
 	<p class="Owner">
 		<b>Version 1.0.0</b><br /><br />
 	</p>
-	<p>Description about version.</p>
-	
-	<h4>Bug Fixes</h4>
-	<ul>
-			<li>List</li>
-			<li>of</li>
-			<li>bug</li>
-			<li>fixes</li>
-	</ul>
-	
+	<p>Initial Release</p>	
 </div>
