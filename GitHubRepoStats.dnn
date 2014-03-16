@@ -1,6 +1,6 @@
 <dotnetnuke type="Package" version="5.0">
   <packages>
-    <package name="GitHubRepoStats" type="Module" version="01.00.00">
+    <package name="GitHubRepoStats" type="Module" version="01.00.01">
       <friendlyName>GitHubRepoStats</friendlyName>
       <description>Displays basic statistics for a GitHub repository including number of watchs, stars, forks and release downloads.</description>
       <iconFile>Images/icon_extensions.gif</iconFile>
