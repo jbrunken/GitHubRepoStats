@@ -145,7 +145,7 @@
     <value>Releases</value>
   </data>
   <data name="lblRepoName.Help" xml:space="preserve">
-    <value>The name of the GitHub repository ie: "GitHubRepoStats"</value>
+    <value>The exact name of the GitHub repository ie: "GitHubRepoStats" - Case sensitive!</value>
   </data>
   <data name="lblRepoName.Text" xml:space="preserve">
     <value>Github Repository Name</value>
@@ -157,7 +157,7 @@
     <value>GitHubRepoStats Settings</value>
   </data>
   <data name="lblRepoOwner.Help" xml:space="preserve">
-    <value>The GitHub username of the Repository owner ie: "jbrunken"</value>
+    <value>The exact GitHub username of the Repository owner ie: "jbrunken" - Case sensitive!</value>
   </data>
   <data name="lblRepoOwner.Text" xml:space="preserve">
     <value>Repository Owner</value>
